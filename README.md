@@ -1,5 +1,5 @@
 # ML
-Experimenting with ML models
+Experimenting with machine learning models
 
 Python Version 3.7.9
 
