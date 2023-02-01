@@ -7,4 +7,4 @@ Libraries used:
 
 Pandas, numpy, scilearn-kit
 
-This is a machine learning excercice using linear regression
+This is a machine learning excercice using various basic statistical models, preprocessing tools and metrics.
